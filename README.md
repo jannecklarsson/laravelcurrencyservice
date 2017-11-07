@@ -1,5 +1,7 @@
 # Laravel Currency Service
 
+Create an account at https://openexchangerates.org and add appid att the end in url variable in the file.
+<br />
 Add file to folder app\Services.
 If folder Services doesnt exist, create one.
 <br />
