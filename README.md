@@ -13,7 +13,8 @@ In openexchangerates.org free version base currency is allways USD and max 1000 
 ## Example
 ````
 use App\Services\Currency;
-$rate = new Currency;
+$currency = new Currency;
+$rate = $currency->rate();
 ````
 ## Result
 ````
